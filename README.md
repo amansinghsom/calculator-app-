@@ -1,7 +1,6 @@
 # mobo-calculator-app
 calculator app  using react native
-# SpotifyClone
-I made only using vanilla javascript
+
 
 
 <h1>Spotify Clone </h1>
